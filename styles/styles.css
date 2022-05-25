@@ -256,14 +256,14 @@ background: rgba(240, 240, 240, 1);
 }
 .var2{
   position: absolute;
-  top: 25%;
+  top: 20%;
   right: 6%;
-  width: 350px;
+  width: 400px;
   /* padding: 3rem 2rem 0; */
   background: #DDF6F9;
   font-weight: 400;
   font-size: 15px;
-  line-height: 18px;
+  line-height: 20px;
 }
 .var2>p{
   padding: 0 1rem;
@@ -361,10 +361,11 @@ background: rgba(240, 240, 240, 1);
   outline: none;
 }
 
-.footer{
-  width: 1441px;
-  height: 476px;
-  background: #022B69;
+footer a{
+  color: #DDF6F9;
+}
+footer a:hover{
+  color: #DDF6F9;
 }
 
 
